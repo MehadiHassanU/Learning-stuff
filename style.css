@@ -1,0 +1,16 @@
+body{
+background-color : darkseagreen;
+
+}
+/* p{
+    font-family : Arial, Helvetica, sans-serif;
+    font-style: italic;
+    text-align : center;
+    font-weight : bold;
+}*/
+
+.Follow{
+    color : blue;
+    text-decoration : bold;
+    cursor : pointer;
+}
